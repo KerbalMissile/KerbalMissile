@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=a855f7&center=true&vCenter=true&width=600&lines=Full%20Stack%20Dev;Rocket%20Nerd;Kerbal%20Space%20Program%20Nerd;Made%20a%20Coding%20Language)](https://git.io/typing-svg)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kerbalmissile@mgmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=kerbalmissile&color=a855f7&style=flat-square)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kerbalmissile@mgmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://kerbalmissile.github.io/KerbalMissileWebsite/) ![Profile Views](https://komarev.com/ghpvc/?username=kerbalmissile&color=a855f7&style=flat-square)
 
 ![Busy But Available](https://img.shields.io/badge/%F0%9F%9F%A2%20Busy%20But%20Available-a855f7?style=flat-square) [![Building · Moxi](https://img.shields.io/badge/Building%20%E2%86%92%20Moxi-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/KerbalMissile/Moxi) ![Calgary - GMT](https://img.shields.io/badge/Calgary%20-%20GMT-333?style=flat-square)
 
@@ -16,7 +16,7 @@
 
 I love coding, rockets, planes, space, racing.
 
-⌖ **Location** &nbsp; YCC, AB <br/>
+⌖ **Location** &nbsp; Calgary, AB <br/>
 ⌗ **Experience** &nbsp; 2 Years Coding Personally <br/>
 ⟳ **Learning** &nbsp; Python, C#
 
