@@ -17,7 +17,7 @@
 I love coding, rockets, planes, space, racing.
 
 ⌖ **Location** &nbsp; Calgary, AB <br/>
-⌗ **Experience** &nbsp; 2 Years Coding Personally <br/>
+⌗ **Experience** &nbsp; 3 Years Coding Personally <br/>
 ⟳ **Learning** &nbsp; Python, C#, C++
 
 ✦ **Fun fact** &nbsp; I made a coding language
