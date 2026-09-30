@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kerbalmissile@mgmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://kerbalmissile.github.io/KerbalMissileWebsite/) ![Profile Views](https://komarev.com/ghpvc/?username=kerbalmissile&color=a855f7&style=flat-square)
 
-![Busy But Available](https://img.shields.io/badge/%F0%9F%9F%A2%20Busy%20But%20Available-a855f7?style=flat-square) [![Building · Moxi](https://img.shields.io/badge/Building%20%E2%86%92%20Moxi-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/KerbalMissile/Moxi) ![Calgary - GMT](https://img.shields.io/badge/Calgary%20-%20GMT-333?style=flat-square)
+![Busy But Available](https://img.shields.io/badge/%F0%9F%9F%A2%20Busy%20But%20Available-a855f7?style=flat-square) [![Building · KCP](https://img.shields.io/badge/Building%20%E2%86%92%20Moxi-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/KerbalMissile/Kerbal-Civilization-Project) ![Calgary - GMT](https://img.shields.io/badge/Calgary%20-%20GMT-333?style=flat-square)
 
 </div>
 
